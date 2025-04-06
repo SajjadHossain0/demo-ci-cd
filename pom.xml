@@ -55,7 +55,7 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
             </plugin>
         </plugins>
-        <finalName>springboot-ci-cd-image</finalName>
+        <finalName>demo_ci_cd</finalName>
     </build>
 
 </project>
